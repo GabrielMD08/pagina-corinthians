@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.nav-t{
+    color: black;
+}
+.nav-hr{
+    color: black;
+}
+.table-nav{
+    background-color: white;
+    border: 1PX solid red ;
+    border-color: yellow;
+    width: auto;
+    height: auto;
+    align-content: center;
+}
+
+.logo-nav{
+    height: 100px;
+    width: auto;;
+}
